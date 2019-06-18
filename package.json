@@ -1,8 +1,8 @@
 {
-  "name": "vimeo-upload",
+  "name": "@coassemble/vimeo-upload",
   "version": "0.1.10",
   "description": "Upload videos to your Vimeo account and update their metadata directly from a browser or a Node.js app.",
-  "main": "vimeo-upload.js",
+  "main": "dist/vimeo-upload.js",
   "homepage": "https://github.com/ecoach-lms/vimeo-upload#readme",
   "repository": {
     "type": "git",
